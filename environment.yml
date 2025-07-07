@@ -1,0 +1,6 @@
+name: py-mathifier
+channels:
+  - defaults
+dependencies:
+  - make
+  - python
